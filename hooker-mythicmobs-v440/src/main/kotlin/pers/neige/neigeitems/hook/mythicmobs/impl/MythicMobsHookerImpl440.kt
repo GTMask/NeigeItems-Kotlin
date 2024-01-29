@@ -20,7 +20,7 @@ import pers.neige.neigeitems.utils.SchedulerUtils.async
  * @constructor 启用4.4.0版本MM挂钩
  */
 class MythicMobsHookerImpl440 : MythicMobsHooker() {
-    override val version = "440"
+    override val version = "560"
 
     override val spawnEventClass = MythicMobSpawnEvent::class.java
 
